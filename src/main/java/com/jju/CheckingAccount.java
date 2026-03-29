@@ -1,5 +1,6 @@
 package com.jju;
 
+
 public class CheckingAccount extends BankAccount {
     private static final double TRANSACTION_FEE = 1.50;
 
@@ -16,4 +17,3 @@ public class CheckingAccount extends BankAccount {
         }
     }
 }
-
